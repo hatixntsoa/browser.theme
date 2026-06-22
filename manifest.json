@@ -1,0 +1,34 @@
+{
+	"manifest_version": 2,
+	"name": "Black Chrome Theme",
+	"description": "Custom black theme for Chromium Based Browsers.",
+	"version": "1.0",
+	"author": "Hatix Ntsoa <hatixntsoa@proton.me>",
+	"theme": {
+		"colors": {
+			"frame": [16, 16, 19],
+			"frame_inactive": [16, 16, 19],
+			"frame_incognito": [32, 33, 36],
+			"frame_incognito_inactive": [60, 64, 67],
+
+			"background_tab": [16, 16, 19],
+			"background_tab_inactive": [16, 16, 19],
+			"background_tab_incognito": [32, 33, 36],
+			"background_tab_incognito_inactive": [60, 64, 67],
+
+			"bookmark_text": [58, 62, 65],
+
+			"tab_background_text": [255, 255, 255],
+			"tab_background_text_inactive": [255, 255, 255],
+			"tab_background_text_incognito": [189, 193, 198],
+			"tab_background_text_incognito_inactive": [167, 171, 174],
+			"tab_text": [255, 255, 255],
+
+			"toolbar": [36, 36, 40],
+			"toolbar_button_icon": [240, 242, 243],
+
+			"omnibox_text": [255, 255, 255],
+			"omnibox_background": [16, 16, 19]
+		}
+	}
+}
